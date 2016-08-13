@@ -22,16 +22,16 @@
 
 3.__Co Relation__:
 
-  -Cross:
-  -Auto:
+  -Cross<br/>
+  -Auto
 
 4.__Digital Time System__:
 
-  -definition with block diagram
-  -construct DTS [sum]
-  -classifications
-    +Static and Dynamic
-    +Time Variant and Time Invariant
-    +Linear and !Linear
-    +Causel and !Causel
-    +Stable and !Stable
+  -definition with block diagram<br/>
+  -construct DTS [sum]<br/>
+  -classifications<br/>
+    +Static and Dynamic<br/>
+    +Time Variant and Time Invariant<br/>
+    +Linear and !Linear<br/>
+    +Causel and !Causel<br/>
+    +Stable and !Stable<br/>
