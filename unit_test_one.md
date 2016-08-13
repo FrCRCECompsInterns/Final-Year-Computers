@@ -39,5 +39,21 @@
 ## CSS
 
 ## AI
+#### PROBLEM SOLVING TECHNIQUES
+#### 2 QUESTIONS X 10 MARKS = 20 MARKS PAPER
+#### FORMAT OF ANSWER 
+1. Representation
+    - Using State Space Tree
+    - Using Production System
+    
+2. Solving Technique
+
+#### PROBLEMS
+1. SEARCHING BFS DFS A*
+2. TRAVELLING SALESMAN
+3. 8 PUZZLE
+4. N QUEEN
+5. CRYPT ARITHMETIC
+
 
 ## SC
