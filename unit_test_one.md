@@ -7,10 +7,10 @@
 "19/08/2016":"AI","SC"
 
 ## SYLABBUS
-[DSP](https://github.com/FrCRCECompsInterns/Final-Year-Computers/edit/master/unit_test_one.md#dsp)
-[CSS]()
-[AI]()
-[SC]()
+[DSP](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/unit_test_one.md#dsp)
+[CSS](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/unit_test_one.md#css)
+[AI](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/unit_test_one.md#ai)
+[SC](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/unit_test_one.md#sc)
 
 ## DSP
 1. __Signal manipulation__:folding, delay, advance
@@ -35,3 +35,9 @@
     +Linear and !Linear<br/>
     +Causel and !Causel<br/>
     +Stable and !Stable<br/>
+
+## CSS
+
+## AI
+
+## SC
