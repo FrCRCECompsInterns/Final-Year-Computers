@@ -12,7 +12,7 @@
 
 2. __Convolutions__:
 
-  -Linear: graphical,tabular,matrix
+  -Linear: graphical,tabular,matrix<br/>
   -Circular: graphical,matrix
 
 3.__
