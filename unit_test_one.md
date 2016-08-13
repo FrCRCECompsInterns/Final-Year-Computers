@@ -8,9 +8,9 @@
 
 ## SYLABBUS
 [DSP](https://github.com/FrCRCECompsInterns/Final-Year-Computers/edit/master/unit_test_one.md#dsp)
-## CSS
-## AI
-## SC
+[CSS]()
+[AI]()
+[SC]()
 
 ## DSP
 1. __Signal manipulation__:folding, delay, advance
