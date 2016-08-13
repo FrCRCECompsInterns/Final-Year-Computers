@@ -33,7 +33,7 @@
     +Static and Dynamic<br/>
     +Time Variant and Time Invariant<br/>
     +Linear and !Linear<br/>
-    +Causel and !Causel<br/>
+    +Causal and !Causal<br/>
     +Stable and !Stable<br/>
 
 ## CSS
