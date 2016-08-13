@@ -37,7 +37,25 @@
     +Stable and !Stable<br/>
 
 ## CSS
-
+1. Introduction,Types of Attacks,Security Goals,Security Threats,Security Mechanisms
+2. Encryption Techniques
+  1. Classification
+    1. Mono & Poly alphabetic ciphers
+    2. Stream & Block ciphers
+    3. Symmetric & Anti Symmetric ciphers
+  2. Ciphers
+    1. Vernam
+    2. Additive
+    3. Vignere
+    4. Caesar
+    5. Double DES
+    6. Triple DES
+    7. Playfair
+    8. Hill
+    9. RSA
+3. Hashing
+  1. MD5
+    
 ## AI
 #### PROBLEM SOLVING TECHNIQUES
 #### 2 QUESTIONS X 10 MARKS = 20 MARKS PAPER
