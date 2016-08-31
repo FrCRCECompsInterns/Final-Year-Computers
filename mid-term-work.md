@@ -6,10 +6,10 @@
 "03/09/2016" - "14/09/2016"
 
 ## SUBJECTS
-[DSP](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/unit_test_one.md#dsp)
-[CSS](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/unit_test_one.md#css)
-[AI](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/unit_test_one.md#ai)
-[SC](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/unit_test_one.md#sc)
+[DSP](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/mid-term-work.md#dsp)
+[CSS](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/mid-term-work.md#css)
+[AI](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/mid-term-work.md#ai)
+[SC](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/mid-term-work.md#sc)
 
 ## DSP
 1. PROJECT 
