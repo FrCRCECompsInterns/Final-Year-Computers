@@ -12,7 +12,7 @@
 [SC](https://github.com/FrCRCECompsInterns/Final-Year-Computers/blob/master/mid-term-work.md#sc)
 
 ## DSP
-1. PROJECT 
+1. [PROJECT](https://github.com/ZNClub-PA-ML-AI/CSS-Project)
 
 2. ASSIGNMENT 1
 
@@ -33,7 +33,7 @@
     9.	Prioritize your list in terms of which services are the most important to implement.
     10.	If all the security services are implemented, would you be able to detect or prevent the attack strategy that you developed in assignment?
 
-3. (Research Paper Presentation)[https://github.com/ZNClub-PA-ML-AI/CSS-Project]
+3. [Research Paper Presentation](https://github.com/ZNClub-PA-ML-AI/CSS-Project)
     
 ## AI
 1. Assignment
