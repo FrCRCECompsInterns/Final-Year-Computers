@@ -19,8 +19,8 @@
 3. PRACTICALS
 
 ## CSS
-1. Encryption Technique
-2. Experiments 1,2,3,9
+1. Encryption Technique [Exp 4]
+2. Experiments 1[PlayFair],2[Columnar],3[RSA],9[Personal System Threats & Protection]
 3. Research Paper Presentation
     
 ## AI
